@@ -6,8 +6,8 @@ This project demonstrates the basics of PaperTrail setup at the simplest level.
 
 Clone the example projects monorepo.
 
-    git clone https://github.com/seancdavis/ultimate_paper_trail_guide.git
-    cd ultimate_paper_trail_guide/getting-started
+    git clone https://github.com/changebase-io/getting-started-with-papertrail.git
+    cd getting-started-with-papertrail
 
 Install dependencies.
 
